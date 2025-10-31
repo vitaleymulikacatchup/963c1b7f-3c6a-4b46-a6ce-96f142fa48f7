@@ -37,7 +37,7 @@ export default function Home() {
       <div id="hero" data-section="hero">
         <HeroSplit
           title="Welcome to Eclectica"
-          description="Where words come alive and creativity flourishes. Join our vibrant literary community of writers, poets, and book enthusiasts at the heart of our college. "
+          description="Where words come alive and creativity thrives Join our dynamic literary community of writers, poets, and book lovers right at the heart of our college"
           tag="Literary Club"
           tagIcon={BookOpen}
           buttons={[
