@@ -59,7 +59,7 @@ export default function Home() {
       <div id="feature" data-section="feature">
         <FeatureCardThree
           title="Our Literary Activities"
-          description="Discover the diverse range of creative and intellectual pursuits that make Eclectica a thriving hub for literary minds"
+          description="Explore the rich tapestry of creative and intellectual endeavors that make Eclectica a vibrant haven for literary enthusiasts"
           tag="Activities"
           tagIcon={Feather}
           features={[
