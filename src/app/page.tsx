@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import NavbarLayoutFloatingOverlay from '@/components/navbar/NavbarLayoutFloatingOverlay/NavbarLayoutFloatingOverlay';
@@ -102,8 +102,7 @@ export default function Home() {
               company: "Junior Year",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/3772511/pexels-photo-3772511.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of Sarah Mitchell",
-              testimonial: "Eclectica has transformed my writing. The supportive community and expert guidance helped me find my authentic voice as a writer."
+              imageAlt: "Portrait of Sarah Mitchell"
             },
             {
               id: "2",
@@ -112,8 +111,7 @@ export default function Home() {
               company: "Senior Year",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/3762803/pexels-photo-3762803.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of Alex Chen",
-              testimonial: "The poetry readings gave me confidence to share my work. I've grown so much as both a writer and performer through this club."
+              imageAlt: "Portrait of Alex Chen"
             },
             {
               id: "3",
@@ -122,8 +120,7 @@ export default function Home() {
               company: "Sophomore Year",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/7972497/pexels-photo-7972497.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of Emma Rodriguez",
-              testimonial: "The book discussions opened my mind to new perspectives. Even as a non-English major, I feel completely welcomed here."
+              imageAlt: "Portrait of Emma Rodriguez"
             },
             {
               id: "4",
@@ -132,8 +129,7 @@ export default function Home() {
               company: "Graduate Student",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/3762803/pexels-photo-3762803.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of James Thompson",
-              testimonial: "Eclectica refined my storytelling skills and connected me with like-minded peers. It's been invaluable for my academic journey."
+              imageAlt: "Portrait of James Thompson"
             }
           ]}
         />
